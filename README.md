@@ -87,7 +87,9 @@ Options:
 
 Contributions to improve the Integration Agent are welcome. Please feel free to submit issues or pull requests on the project's repository.
 
-## License
+## Info
 
-[Include appropriate license information here]
+Integration Agent is built by UnofficialAPIs.com. Besides our work on the agent, we offer services to build custom integrations upon request, host, and manage authentication. If you have requests or want to work with us, reach out at richard@taiki.online.
 
+
+This repo is intended to be used as a package in a larger project. https://github.com/Unofficial-APIs/Integrations
