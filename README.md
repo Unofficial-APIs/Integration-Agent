@@ -1,6 +1,6 @@
 # Integration Agent
 
-An AI agent that reverse-engineers third-party platform's internal APIs.
+An AI agent that reverse-engineers third-party platform's internal APIs for building integrations.
 
 ## What Integration Agent Does
 
